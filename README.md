@@ -1,6 +1,5 @@
-# El o Bere Sheet
+# Bere Sheet
 
 - 👋 Hi, I’m @voozz
 - 👀 I’m bunny brsht.
 
----
