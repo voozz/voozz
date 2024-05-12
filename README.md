@@ -1,7 +1,5 @@
 # Bere Sheet
 
----
-
-- 👀 I’m bunny brsht.
+- 👀 I’m bunny.
 
 ---
